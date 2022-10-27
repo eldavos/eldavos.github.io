@@ -92,6 +92,9 @@ body {
 .text-green{
   color: #56F91B !important;
 }
+.text-black{
+  color: #010000 !important;
+}
 
 hr {
   margin: 1rem 0;
